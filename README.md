@@ -19,10 +19,10 @@
 ---
 
 ### 🔧 Tech Stack
-![HTML](https://img.shields.io/badge/-html-black?logo=html)
-![CSS](https://img.shields.io/badge/-css-black?logo=css)
-![SQL](https://img.shields.io/badge/-sql-black?logo=sql)
-![ASP.NET](https://img.shields.io/badge/-asp-black?logo=asp)
+![HTML](https://img.shields.io/badge/-html-orange?logo=html)
+![CSS](https://img.shields.io/badge/-css-blue?logo=css)
+![SQL](https://img.shields.io/badge/-sql-green?logo=sql)
+![ASP.NET](https://img.shields.io/badge/-asp-purple?logo=asp)
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -33,7 +33,7 @@
 <details>
 <summary>📚 &nbsp;More about me</summary>
 
-* 🔭 Currently building **Project X**  
+* 🔭 Currently Teaching deltaker and creating new lecture videos and updating canvas videos.  
 * 🌱 Learning **WordPress** & AZURE
 * 💬 Ask me about HTML, CSS,SQL, ASP.NET
 
