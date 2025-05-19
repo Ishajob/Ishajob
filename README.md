@@ -19,11 +19,11 @@
 ---
 
 ### 🔧 Tech Stack
-![HTML](https://img.shields.io/badge/-html-orange?logo=html)
-![CSS](https://img.shields.io/badge/-css-blue?logo=css)
-![SQL](https://img.shields.io/badge/-sql-green?logo=sql)
-![ASP.NET](https://img.shields.io/badge/-asp-purple?logo=asp)
-![github](https://img.shields.io/badge/-github-purple?logo=github)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?logo=dotnet)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 
 ### 📊 GitHub Stats
 <p align="center">
