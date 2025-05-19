@@ -23,11 +23,12 @@
 ![CSS](https://img.shields.io/badge/-css-blue?logo=css)
 ![SQL](https://img.shields.io/badge/-sql-green?logo=sql)
 ![ASP.NET](https://img.shields.io/badge/-asp-purple?logo=asp)
+![github](https://img.shields.io/badge/-github-purple?logo=github)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harisha&show_icons=true&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harisha&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ishajob&show_icons=true&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishajob&hide_border=true">
 </p>
 
 <details>
