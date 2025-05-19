@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="center"><img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800"></p>
+<p align="center"><img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800" height=600px></p>
 <!--
 **![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubName&layout=compact)
 
