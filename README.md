@@ -2,8 +2,8 @@
 
 <!-- Profile banner -->
 <p align="center">
-  <img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800&h=300" 
-       alt="User banner" width="100%">
+  <img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800" 
+       alt="User banner" width="100%" height="300">
 </p>
 
 <h1 align="center">Hi, I’m Harisha 👋</h1>
