@@ -1,21 +1,20 @@
 ## Hi there 👋
-<p align="center"><img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800" ></p>
 
 <!-- Profile banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SERNAMEA/sernamea/main/assets/banner-light.png" 
-       alt="Sernamea banner" width="100%">
+  <img src="https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800" 
+       alt="User banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I’m Sernamea 👋</h1>
-<p align="center">Full-stack developer · Coffee lover · Open-source tinkerer</p>
+<h1 align="center">Hi, I’m Harisha 👋</h1>
+<p align="center">Faglig Veileder</p>
 
-<p align="center">
+<!--<p align="center">-->
   <!-- Badges -->
-  <img src="https://img.shields.io/github/followers/SERNAMEA?label=Followers" alt="Followers">
+ <!-- <img src="https://img.shields.io/github/followers/SERNAMEA?label=Followers" alt="Followers">
   <img src="https://img.shields.io/badge/Code-JS%20%7C%20TS%20%7C%20Go%20%7C%20Rust-blue" alt="Stack">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SERNAMEA" alt="Visits">
-</p>
+</p> -->
 
 ---
 
