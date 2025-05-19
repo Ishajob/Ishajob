@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi, I’m Harisha 👋</h1>
-<p align="center">Faglig Veileder</p>
+<p align="center">Faglig Veileder at Jobloop</p>
 
 <!--<p align="center">-->
   <!-- Badges -->
@@ -19,32 +19,32 @@
 ---
 
 ### 🔧 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
-![React](https://img.shields.io/badge/-React-black?logo=react)
-![Go](https://img.shields.io/badge/-Go-black?logo=go)
+![HTML](https://img.shields.io/badge/-html-black?logo=html)
+![CSS](https://img.shields.io/badge/-css-black?logo=css)
+![SQL](https://img.shields.io/badge/-sql-black?logo=sql)
+![ASP.NET](https://img.shields.io/badge/-asp-black?logo=asp)
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SERNAMEA&show_icons=true&hide_border=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SERNAMEA&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harisha&show_icons=true&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harisha&hide_border=true">
 </p>
 
 <details>
 <summary>📚 &nbsp;More about me</summary>
 
 * 🔭 Currently building **Project X**  
-* 🌱 Learning **Rust** & low-level systems  
-* 💬 Ask me about backend architecture or clean UI
+* 🌱 Learning **WordPress** & AZURE
+* 💬 Ask me about HTML, CSS,SQL, ASP.NET
 
 </details>
 
 ---
 
-<p align="center">
-  <a href="https://twitter.com/SERNAMEA"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/SERNAMEA"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-</p>
+<!--<p align="center">
+  <a href="https://twitter.com/Har"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/Har"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+</p>-->
 
 <!-- Dynamic last update -->
 <p align="right">
