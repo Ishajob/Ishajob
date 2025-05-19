@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p align="center"><img src="https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&w=800](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=800](https://images.pexels.com/photos/27861771/pexels-photo-27861771/free-photo-of-home-office-table-equipment.jpeg?auto=compress&cs=tinysrgb&w=800"></p>
+<p align="center"><img src="https://images.pexels.com/photos/27861771/pexels-photo-27861771/free-photo-of-home-office-table-equipment.jpeg?auto=compress&cs=tinysrgb&w=800"></p>
 <!--
 **![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubName&layout=compact)
 
